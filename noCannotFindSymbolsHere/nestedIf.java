@@ -12,7 +12,7 @@ if the sun is shining
 public class nestedIf {
     public static void main(String[] args){
         Scanner inputBox = new Scanner(System.in);
-        System.out.println("Kindly inform me of the prevailing weather conditions (it can only be rainy or sunny, other climatic conditions are simply myths) ");
+        System.out.println("Kindly inform me of the prevailing weather noCannotFindSymbolsHere.conditions (it can only be rainy or sunny, other climatic noCannotFindSymbolsHere.conditions are simply myths) ");
         String weather = inputBox.next();
         if (weather=="sunny"){
             if (weather=="rainy"){
